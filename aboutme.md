@@ -79,6 +79,10 @@ Some developer related things I often use:
 Source control tools (git, SVN)
 Docker
 
+<li
+sa;sl
+askl;kadl;
+</li>
 ________________________________________________________________________________________________________________________
 
 
