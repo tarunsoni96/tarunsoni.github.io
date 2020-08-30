@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: About the author
+subtitle: This is my personal space where I showcase my self-developed projects, introduce my self in detail :p
 ---
-This is my personal space where I showcase my self-developed projects and blog about my private coding adventures.
 
-________________________________________________________________________________________________________________________
+---
 
 I got my first computer when i was 6, it was pentium 4 with 256MB RAM :p, My parents bought it for me for my strong liking of video games at that time (Which still is, but not to that extent).
 
@@ -33,21 +32,29 @@ I started developing my personal idea's to apps. And launched some of it. Like O
 
 And from there i kept on going with latest technologies, expermenting new languages and exploring new coding techniques, Currently my favorites Framework in Frontend - React Native (Cross platform Apps in Javascript, What else one need!)
 
-________________________________________________________________________________________________________________________
+---
 
-
-And NOW 
+And NOW
 
 I'm doing a full time job in Frontend Cross platform development in React Native
 
 I code and code all day long, practice algorithms & different data structures from C++ to plain old Javascript, I like to experiment with different kinds of coding practices (Functional, OOPS) to name few, I always focus on improvising my algorithm implementation skills and it's speed, optimizations & reliability.
 
-
 Programming languages I use :
 
+<div style={{marginLeft:10}} >
+<li>
 JavaScript / TypeScript
+</li>
+
+<li>
 C++
+</li>
+
+<li>
 PHP
+</li>
+</div>
 
 Frameworks I use :
 
@@ -79,16 +86,6 @@ Some developer related things I often use:
 Source control tools (git, SVN)
 Docker
 
-<li>
-sa;sl
-askl;kadl
-</li>
 ________________________________________________________________________________________________________________________
-
-
-
-
-
-
 
 <!-- To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions. -->
