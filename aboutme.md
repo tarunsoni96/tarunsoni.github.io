@@ -5,11 +5,9 @@ subtitle: About the author
 ---
 This is my personal space where I showcase my self-developed projects and blog about my private coding adventures.
 
-It’s updated when I feel like posting bigger news to the world, for more frequent and smaller updates
-
 ________________________________________________________________________________________________________________________
 
-I got my first computer when i was 6, it was pentium 4 with 256MB of RAM, It was pretty high end for that time, My parents bought it for my strong liking of video games at that time (Which still is, but not to that extent).
+I got my first computer when i was 6, it was pentium 4 with 256MB RAM :p, My parents bought it for me for my strong liking of video games at that time (Which still is, but not to that extent).
 
 Slowly over time playing games on it, I thought why couldn't i just build my own games and design everthing as i want in a game.
 
@@ -21,21 +19,22 @@ Bootstrap,
 Angular,
 CodeIgniter,
 
-I designed full stack website working 12 hrs a day, that really gave me insights on how things actally work in computers and online networks.
+I designed full stack websites working 12 hrs a day, which really gave me insights on how things actally work in computers and networks.
 
 Stuck with that for 2 years, Shifted to Android which was again a hype for that time.
 
-I still remember i was in my hometown, laptop's battery was on 9% and i compiled my first Untitled project in android studio, and it felt Great! compiling my first android project successfully.
+I still remember i was in my hometown, laptop's battery was on 9% and i compiled my first Untitled project in android studio, and it felt Great! compiling first android project successfully.
 
 And it was at that time i fell in love with Frontend development.
 
 I kept on experimenting with android, rooting phones and unlocking it's abilities which android keeps it locked by blocking root access to OS.
 
-I started developing my personal idea's to apps. And launched some of it. Like OLX i had that idea but not enough money at that time to actually run ad campaigns for it to become successfull, I wrote it's backend in PHP, Codeigniter & Mysql.
+I started developing my personal idea's to apps. And launched some of it. Like OLX i had that idea but not enough money at that time to actually run ad campaigns for it to become successfull, It was a native app in android, i wrote it's backend in PHP, Codeigniter & Mysql.
 
 And from there i kept on going with latest technologies, expermenting new languages and exploring new coding techniques, Currently my favorites Framework in Frontend - React Native (Cross platform Apps in Javascript, What else one need!)
 
-______________________________
+________________________________________________________________________________________________________________________
+
 
 And NOW 
 
@@ -80,10 +79,11 @@ Some developer related things I often use:
 Source control tools (git, SVN)
 Docker
 
-____
+________________________________________________________________________________________________________________________
 
 
-Thank you making it so far! :)
+
+
 
 
 
