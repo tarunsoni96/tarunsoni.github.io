@@ -42,7 +42,6 @@ I code and code all day long, practice algorithms & different data structures fr
 
 Programming languages I use :
 
-<div style={{marginLeft:10}} >
 <li>
 JavaScript / TypeScript
 </li>
@@ -54,37 +53,44 @@ C++
 <li>
 PHP
 </li>
-</div>
 
 Frameworks I use :
 
+<li>
 React Native
+</li>
+
+<li>
 Laravel
+</li>
+
+<li>
 Angular
+</li>
 
 Platforms I develop for :
 
-Android
-iOS
-Web
+<li>Android</li>
+<li>iOS</li>
+<li>Web</li>
 
 Some of the IDEs I use regularly :
 
-Visual Studio (Code)
-Android Developer Studio (IntelliJ)
-XCode
-Eclipse
+<li>Visual Studio (Code)</li>
+<li>Android Developer Studio (IntelliJ)</li>
+<li>XCode</li>
+<li>Eclipse</li>
 
 List of some of the web frameworks I’ve used :
 
-React
-Twitter Bootstrap
-jQuery and jQuery UI
+<li>React</li>
+<li>Twitter Bootstrap</li>
+<li>jQuery and jQuery UI</li>
 
 Some developer related things I often use:
 
-Source control tools (git, SVN)
-Docker
+<li>Source control tools (git, SVN)</li>
+<li>Docker</li>
 
 ________________________________________________________________________________________________________________________
 
