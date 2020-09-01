@@ -6,7 +6,7 @@ subtitle: This is my personal space where I showcase my self-developed projects,
 
 ---
 
-I got my first computer when i was 6, it was pentium 4 with 256MB RAM :p, My parents bought it for me for my strong liking of video games at that time (Which still is, but not to that extent).
+I got my first computer when i was 6, it was pentium 4 with 256MB RAM, My parents bought it for me for my strong liking of video games at that time (Which still is, but not to that extent).
 
 Slowly over time playing games on it, I thought why couldn't i just build my own games and design everthing as i want in a game.
 
